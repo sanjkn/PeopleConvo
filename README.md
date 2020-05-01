@@ -38,6 +38,12 @@ Latest CoronaVirus News is updated in the blog by admin.And users get to share t
 
 | Name          | Version       |
 | ------------- | ------------- |
-| Next.js       | Content Cell  |
-| React.js      | Content Cell  |
+| Next.js       | 9.3.5         |
+| React.js      | 16.13.1       |
+| sass          |1.26.5         |
+|isomorphicfetch|   2.2.1       |
+|js-cookie      | 2.2.1         |
+| moment        | 2.24.0        |
+| nprogress     | 0.2.0         |
+
 
