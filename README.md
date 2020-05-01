@@ -40,10 +40,22 @@ Latest CoronaVirus News is updated in the blog by admin.And users get to share t
 | ------------- | ------------- |
 | Next.js       | 9.3.5         |
 | React.js      | 16.13.1       |
-| sass          |1.26.5         |
-|isomorphicfetch|   2.2.1       |
+| sass          | 1.26.5        |
+|isomorphicfetch| 2.2.1         |
 |js-cookie      | 2.2.1         |
 | moment        | 2.24.0        |
 | nprogress     | 0.2.0         |
 
+### Backend:
+
+| Name          | Version       |
+| ------------- | ------------- |
+| express       | 4.17.1        |
+| cors          | 2.8.5         |
+| mongoose      | 5.9.9         |
+|nodemon        | 2.0.3         |
+|cookie-parser  | 1.4.5         |
+| morgan        | 1.10.0        |
+| dotenv        | 8.2.0         |
+| body-parser   | 1.19.0        |
 
