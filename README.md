@@ -23,6 +23,6 @@ The website is mainly developed keeping in mind the pandemic Situation. there ar
 Latest CoronaVirus News is updated in the blog by admin.And users get to share their own articles on how to spend time during Lockdown, discuss their own experiences if affected by corona nad current situations in Lockdown. 
 
 
-
+----------------------------
 Project Description:
 
