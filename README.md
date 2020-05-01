@@ -24,5 +24,15 @@ Latest CoronaVirus News is updated in the blog by admin.And users get to share t
 
 
 ----------------------------
-Project Description:
+# 💻 Website
+
+##  Deployment:   https://peopleconvo.com
+
+
+
+=====================
+
+ ### 🔧Used technologies / Libraries / Frameworks
+
+
 
