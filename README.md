@@ -59,3 +59,18 @@ Latest CoronaVirus News is updated in the blog by admin.And users get to share t
 | dotenv        | 8.2.0         |
 | body-parser   | 1.19.0        |
 
+
+--------------------------------
+#  Local testing
+
+Operating System: Windows 10
+Architecture: x86_64
+
+### Installation & Quick setup:
+
+Open up your favorite terminal (and navigate somewhere you want to download the repository to)
+
+1. Make sure you have a Code Editor installed. I used Sublime. Install npm packages. Test by typing  $ node -v in cmd
+If this returns a version number, NodeJS is installed.
+
+
