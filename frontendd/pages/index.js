@@ -9,7 +9,7 @@ const Index = () => {
                     <div className="row">
                         <div className="col-md-12 text-center">
                             <h1 className="display-4 font-weight-bold">
-                                PROGRAMMING & WEB DEVELOPMENT BLOGS/TUTORIALS
+                                PEOPLE CONVO
                             </h1>
                         </div>
                     </div>
@@ -19,8 +19,9 @@ const Index = () => {
                     <div className="row">
                         <div className="col-md-12 text-center pt-4 pb-5">
                             <p className="lead">
-                                Best programming and web development blogs and tutorials on React Node NextJs and
-                                JavaScript
+                                A start to endless blogs , conversation, and authentic human connection Share you stories to the world. Whether you're into breaking news, sports, 
+                                TV fan theories,there are categories for you.
+
                             </p>
                         </div>
                     </div>
@@ -34,19 +35,19 @@ const Index = () => {
                                     style={{
                                         backgroundImage:
                                             'url(' +
-                                            'https://images.pexels.com/photos/540518/pexels-photo-540518.jpeg' +
+                                            'https://images.pexels.com/photos/1054974/pexels-photo-1054974.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500' +
                                             ')'
                                     }}
                                 >
-                                    <h2 className="text-shadow text-center h1">React</h2>
+                                    <h2 className="text-shadow text-center h1">LOCKDOWNLIFE</h2>
                                 </div>
                                 <div className="back text-center">
-                                    <Link href="/categories/react">
+                                    <Link href="/categories/LOCKDOWNLIFE">
                                         <a>
-                                            <h3 className="h1">React Js</h3>
+                                            <h3 className="h1">LOCKDOWN LIFE</h3>
                                         </a>
                                     </Link>
-                                    <p className="lead">The world's most popular frontend web development library</p>
+                                    <p className="lead">Bored Already? Here's what you can do. </p>
                                 </div>
                             </div>
                         </div>
@@ -58,20 +59,20 @@ const Index = () => {
                                     style={{
                                         backgroundImage:
                                             'url(' +
-                                            'https://images.pexels.com/photos/540518/pexels-photo-540518.jpeg' +
+                                            'https://images.pexels.com/photos/775032/pexels-photo-775032.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500' +
                                             ')'
                                     }}
                                 >
-                                    <h2 className="text-shadow text-center h1">Node</h2>
+                                    <h2 className="text-shadow text-center h1">HEALTH</h2>
                                 </div>
                                 <div className="back text-center">
-                                    <Link href="/categories/node">
+                                    <Link href="/categories/HEALTH">
                                         <a>
-                                            <h3 className="h1">Node Js</h3>
+                                            <h3 className="h1">HEALTH</h3>
                                         </a>
                                     </Link>
                                     <p className="lead">
-                                        The worlds most popular backend development tool for JavaScript Ninjas
+                                        Never say there is no time for Health
                                     </p>
                                 </div>
                             </div>
@@ -84,22 +85,80 @@ const Index = () => {
                                     style={{
                                         backgroundImage:
                                             'url(' +
-                                            'https://images.pexels.com/photos/540518/pexels-photo-540518.jpeg' +
+                                            'https://images.pexels.com/photos/3786124/pexels-photo-3786124.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500' +
                                             ')'
                                     }}
                                 >
-                                    <h2 className="text-shadow text-center h1">Next</h2>
+                                    <h2 className="text-shadow text-center h1">COVID-19</h2>
                                 </div>
                                 <div className="back text-center">
-                                    <Link href="/categories/nextjs">
+                                    <Link href="/categories/COVID-19">
                                         <a>
-                                            <h3 className="h1">Next Js</h3>
+                                            <h3 className="h1">COVID-19</h3>
                                         </a>
                                     </Link>
-                                    <p className="lead">A Production ready web framework for building SEO React apps</p>
+                                    <p className="lead">Get the latest updates about the Pandemic</p>
                                 </div>
                             </div>
                         </div>
+
+
+
+  <div className="col-md-4">
+                            <div className="flip flip-horizontal">
+                                <div
+                                    className="front"
+                                    style={{
+                                        backgroundImage:
+                                            'url(' +
+                                            'https://images.pexels.com/photos/3131971/pexels-photo-3131971.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500' +
+                                            ')'
+                                    }}
+                                >
+                                    <h2 className="text-shadow text-center h1">ENTERTAINMENT</h2>
+                                </div>
+                                <div className="back text-center">
+                                    <Link href="/categories/ENTERTAINMENT">
+                                        <a>
+                                            <h3 className="h1">ENTERTAINMENT</h3>
+                                        </a>
+                                    </Link>
+                                    <p className="lead">Read all the latest and breaking celebrity entertainment news on Entertainment Tonight. </p>
+                                </div>
+                            </div>
+                        </div>
+
+
+
+
+
+
+
+                          <div className="col-md-4">
+                            <div className="flip flip-horizontal">
+                                <div
+                                    className="front"
+                                    style={{
+                                        backgroundImage:
+                                            'url(' +
+                                            'https://images.pexels.com/photos/6384/woman-hand-desk-office.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500' +
+                                            ')'
+                                    }}
+                                >
+                                    <h2 className="text-shadow text-center h1">CAREER</h2>
+                                </div>
+                                <div className="back text-center">
+                                    <Link href="/categories/CAREER">
+                                        <a>
+                                            <h3 className="h1">CAREER</h3>
+                                        </a>
+                                    </Link>
+                                    <p className="lead">Get the latest updates about the Pandemic</p>
+                                </div>
+                            </div>
+                        </div>
+
+
                     </div>
                 </div>
             </article>
