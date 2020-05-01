@@ -74,6 +74,7 @@ Open up your favorite terminal (and navigate somewhere you want to download the 
 If this returns a version number, NodeJS is installed.
 
 2. Clone the repository 
+git clone https://github.com/sanjkn/PeopleConvo.git
 
 3. Install all dependencies by typing
 $ npm install
