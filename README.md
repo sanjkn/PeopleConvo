@@ -28,6 +28,17 @@ Latest CoronaVirus News is updated in the blog by admin.And users get to share t
 
 ###  Deployment:   https://peopleconvo.com
 
+The site is developed using MERN Stack/ Full Stack with React Node Mongo DB and NextJs. 
+
+* Node js and Mongo DB for building API because its incredibly easy, flexible and easy to scale.
+* React is choosen  because its extremely powerful, performant and recently became so much fun and easy to use with the introduction of hooks.
+
+* NextJs because it takes the development process of React apps to whole new level.NextJs comes with SSR out of the box and SSR is     necessary for SEO.
+ NextJs starting with version 9 automatically decides if your web page can be served as a static page or dynamic page.
+
+If the page is not making request to backend server to fetch data then NextJs automatically serves that page as static page.
+Static pages load extremely fast because they are static. there is no need to wait for server response
+
 
 
 =====================
