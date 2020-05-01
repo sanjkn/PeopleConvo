@@ -17,7 +17,7 @@ If you want  to get the latest news from around the web and share your  news  or
 
 you can discuss on topics with people around the world  by creating different categories and tags around your interests. You can also write your own articles or submit news stories from other publications that you deem fit for the website.
 
-The website is mainly developed keeping in mind the pandemic Situation. there are people living alone, stuck elsewhere in quarantine, separated from family.
+The website is mainly developed keeping in mind the pandemic Situation. there are people living alone, stuck elsewhere in quarantine, separated from family.The site keeps them updated of what's going on around the world and the users can post their blogs too and interact in the platform with  DISQUS Commenting system.
 
 
 Latest CoronaVirus News is updated in the blog by admin.And users get to share their own articles on how to spend time during Lockdown, discuss their own experiences if affected by corona nad current situations in Lockdown. 
