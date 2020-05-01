@@ -26,13 +26,18 @@ Latest CoronaVirus News is updated in the blog by admin.And users get to share t
 ----------------------------
 # 💻 Website
 
-##  Deployment:   https://peopleconvo.com
+###  Deployment:   https://peopleconvo.com
 
 
 
 =====================
 
- ### 🔧Used technologies / Libraries / Frameworks
+ # 🔧Used technologies / Libraries / Frameworks
+ 
+ ### Frontend:
 
-
+| Name          | Version       |
+| ------------- | ------------- |
+| Next.js       | Content Cell  |
+| React.js      | Content Cell  |
 
