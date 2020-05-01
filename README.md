@@ -36,7 +36,7 @@ The site is developed using MERN Stack/ Full Stack with React Node Mongo DB and 
 * NextJs is a framework like React. It takes the development process of React apps to whole new level.NextJs comes with SSR out of the box and SSR is necessary for SEO.
  NextJs starting with version 9 automatically decides if the web page can be served as a static page or dynamic page.
 
- *If the page is not making request to backend server to fetch data then NextJs automatically serves that page as static page.
+ * If the page is not making request to backend server to fetch data then NextJs automatically serves that page as static page.
  Static pages load extremely fast because they are static. there is no need to wait for server response
 
 
@@ -81,30 +81,30 @@ Architecture: x86_64
 
 Open up your favorite terminal (and navigate somewhere you want to download the repository to)
 
-1. Make sure you have a Code Editor installed. I used Sublime. Install npm packages. Test by typing  $ node -v in cmd
-If this returns a version number, NodeJS is installed.
+ 1. Make sure you have a Code Editor installed. I used Sublime. Install npm packages. Test by typing  $ node -v in cmd
+ If this returns a version number, NodeJS is installed.
 
-2. Clone the repository 
-git clone https://github.com/sanjkn/PeopleConvo.git
+ 2. Clone the repository 
+ git clone https://github.com/sanjkn/PeopleConvo.git
 
-3. Install all dependencies by typing
-$ npm install
+ 3. Install all dependencies by typing
+ $ npm install
 
 
-4.Compile the assets
-$ npm run assets-dev
+ 4.Compile the assets
+ $ npm run assets-dev
 
-5.Fill in your config secrets
-$ cp .env.dist .env
+ 5.Fill in your config secrets
+ $ cp .env.dist .env
 
-And fill that file
+ And fill that file
 
-6.Start the server
-$ npm run dev
+ 6.Start the server
+ $ npm run dev
 
-7.Developing & Building:
+ 7.Developing & Building:
 
-8.Build and run (Frontend):
+ 8.Build and run (Frontend):
 $ npm run dev
 
 9.Build only:
